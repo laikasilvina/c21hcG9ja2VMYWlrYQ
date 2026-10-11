@@ -1,0 +1,91 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VMYWlrYQ/c21hcG9ja2VMYWlrYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Laika =====
+[1]Laika       |08:01:42 | 11-10-2026| login OK @laikasilvi | score=870 rank=6723
+[1]Laika       |08:01:42 | 11-10-2026| serverTime=2026-10-11T08:01:42.000Z local=2026-10-11T08:01:42.951Z
+--> [1]Laika menjalankan: Claim Daily
+[1]Laika       |08:01:44 | 11-10-2026| daily: sudah klaim (already=true) score=870
+--> [1]Laika menjalankan: Auto All Tasks (3 pending)
+[1]Laika       |08:01:47 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109192228246667620
+[1]Laika       |08:01:47 | 11-10-2026| delay 10s...
+[1]Laika       |08:02:00 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109192348915903096
+[1]Laika       |08:02:00 | 11-10-2026| delay 10s...
+[1]Laika       |08:02:16 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109192478201435007
+[1]Laika       |08:02:16 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laika       |08:02:19 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/laikasilvi/status/2109192512172871808
+--> [1]Laika menjalankan: Watch Anime
+[1]Laika       |08:02:20 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
+[1]Laika       |08:02:20 | 11-10-2026| watch [1/1] farming oshi-first-journey...
+[1]Laika       |08:02:23 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Laika       |08:02:30 | 11-10-2026| watch oshi-first-journey: 7% (6.43/87.00s)
+[1]Laika       |08:02:37 | 11-10-2026| watch oshi-first-journey: 13% (12.17/87.00s)
+[1]Laika       |08:02:46 | 11-10-2026| watch oshi-first-journey: 21% (19.04/87.00s)
+[1]Laika       |08:02:52 | 11-10-2026| watch oshi-first-journey: 29% (25.71/87.00s)
+[1]Laika       |08:02:59 | 11-10-2026| watch oshi-first-journey: 36% (31.71/87.00s)
+[1]Laika       |08:03:06 | 11-10-2026| watch oshi-first-journey: 43% (37.88/87.00s)
+[1]Laika       |08:03:16 | 11-10-2026| watch oshi-first-journey: 50% (43.57/87.00s)
+[1]Laika       |08:03:25 | 11-10-2026| watch oshi-first-journey: 60% (52.78/87.00s)
+[1]Laika       |08:03:32 | 11-10-2026| watch oshi-first-journey: 69% (60.12/87.00s)
+[1]Laika       |08:03:38 | 11-10-2026| watch oshi-first-journey: 76% (66.53/87.00s)
+[1]Laika       |08:03:45 | 11-10-2026| watch oshi-first-journey: 83% (72.34/87.00s)
+[1]Laika       |08:03:53 | 11-10-2026| watch oshi-first-journey: 90% (78.51/87.00s)
+[1]Laika       |08:03:53 | 11-10-2026| watch oshi-first-journey: COMPLETED (78.51/87.00s)
+--> [1]Laika menjalankan: Read Article
+[1]Laika       |08:03:55 | 11-10-2026| news: 9/24 artikel selesai dibaca
+[1]Laika       |08:03:56 | 11-10-2026| mint eligibility: {"userId":"1780413539141984256","youtube":{"url":"https://www.youtube.com/@laikasilvina","status":"submitted","revision":"82b5055b-6fc1-4cfa-a42d-f642560fe4d9","submittedAt":1791677238,"reviewedAt":17
+[1]Laika       |08:04:03 | 11-10-2026| news [1/15] oshi-labs-monthly-2026-09: OK completed=10
+[1]Laika       |08:04:14 | 11-10-2026| news [2/15] oshi-news-launch: OK completed=11
+[1]Laika       |08:04:23 | 11-10-2026| news [3/15] yuki-character-design: OK completed=12
+[1]Laika       |08:04:32 | 11-10-2026| news [4/15] smart-pocket-mobile-apps: OK completed=13
+[1]Laika       |08:04:41 | 11-10-2026| news [5/15] smart-pocket-read-a-card: OK completed=14
+[1]Laika       |08:04:50 | 11-10-2026| news [6/15] start-your-fan-creation: OK completed=15
+[1]Laika       |08:05:00 | 11-10-2026| news [7/15] complete-your-first-task: OK completed=16
+[1]Laika       |08:05:09 | 11-10-2026| news [8/15] understand-the-rankings: OK completed=17
+[1]Laika       |08:05:18 | 11-10-2026| news [9/15] unlock-and-save-icons: OK completed=18
+[1]Laika       |08:05:28 | 11-10-2026| news [10/15] start-here: OK completed=19
+[1]Laika       |08:05:40 | 11-10-2026| news [11/15] what-is-free-mint: OK completed=20
+[1]Laika       |08:05:54 | 11-10-2026| news [12/15] what-is-nft: OK completed=21
+[1]Laika       |08:06:02 | 11-10-2026| news [13/15] prepare-your-wallet: OK completed=22
+[1]Laika       |08:06:18 | 11-10-2026| news [14/15] find-your-anime: OK completed=23
+[1]Laika       |08:06:20 | 11-10-2026| news smart-pocket-first-steps: view GAGAL http=503
+--> [1]Laika menjalankan: Quiz Anime
+[1]Laika       |08:06:20 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Laika menjalankan: Music Missions (realtime, bisa lama!)
+[1]Laika       |08:06:20 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Laika       |08:06:20 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Laika menjalankan: Claim Missions
+[1]Laika       |08:06:20 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Laika menjalankan: Check Eligibility
+
+--- eligibility [1]Laika ---
+  @laikasilvi | score=870 rank=6723
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Laika menjalankan: Read Manga
+[1]Laika       |08:06:21 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Laika menjalankan: Get Gift
+[1]Laika       |08:06:21 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Laika menjalankan: Setup Profile
+[1]Laika       |08:06:21 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Laika menjalankan: Bind Wallet
+[1]Laika       |08:06:21 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Laika: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 14 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
