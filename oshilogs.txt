@@ -12,80 +12,301 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Laika =====
-[1]Laika       |08:01:42 | 11-10-2026| login OK @laikasilvi | score=870 rank=6723
-[1]Laika       |08:01:42 | 11-10-2026| serverTime=2026-10-11T08:01:42.000Z local=2026-10-11T08:01:42.951Z
+[1]Laika       |17:07:14 | 12-10-2026| login OK @laikasilvi | score=900 rank=6847
+[1]Laika       |17:07:14 | 12-10-2026| serverTime=2026-10-12T17:07:14.000Z local=2026-10-12T17:07:14.258Z
 --> [1]Laika menjalankan: Claim Daily
-[1]Laika       |08:01:44 | 11-10-2026| daily: sudah klaim (already=true) score=870
---> [1]Laika menjalankan: Auto All Tasks (3 pending)
-[1]Laika       |08:01:47 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109192228246667620
-[1]Laika       |08:01:47 | 11-10-2026| delay 10s...
-[1]Laika       |08:02:00 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109192348915903096
-[1]Laika       |08:02:00 | 11-10-2026| delay 10s...
-[1]Laika       |08:02:16 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109192478201435007
-[1]Laika       |08:02:16 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Laika       |08:02:19 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/laikasilvi/status/2109192512172871808
+[1]Laika       |17:07:15 | 12-10-2026| daily: OK +10 poin score=910
+--> [1]Laika menjalankan: Auto All Tasks (10 pending)
+[1]Laika       |17:07:18 | 12-10-2026| [1/10] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109692037602300493
+[1]Laika       |17:07:18 | 12-10-2026| delay 10s...
+[1]Laika       |17:07:31 | 12-10-2026| [2/10] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109692097104764959
+[1]Laika       |17:07:31 | 12-10-2026| delay 10s...
+[1]Laika       |17:07:43 | 12-10-2026| [3/10] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109692040658562920
+[1]Laika       |17:07:43 | 12-10-2026| delay 10s...
+[1]Laika       |17:07:54 | 12-10-2026| [4/10] fa907706 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/laikasilvi/status/2109692121693195896
+[1]Laika       |17:07:54 | 12-10-2026| delay 10s...
+[1]Laika       |17:08:06 | 12-10-2026| [5/10] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Laika       |17:08:06 | 12-10-2026| delay 10s...
+[1]Laika       |17:08:18 | 12-10-2026| [6/10] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109692358564540126
+[1]Laika       |17:08:18 | 12-10-2026| delay 10s...
+[1]Laika       |17:08:30 | 12-10-2026| [7/10] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109692329993209203
+[1]Laika       |17:08:30 | 12-10-2026| delay 10s...
+[1]Laika       |17:08:42 | 12-10-2026| [8/10] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109692489372145422
+[1]Laika       |17:08:42 | 12-10-2026| delay 10s...
+[1]Laika       |17:08:56 | 12-10-2026| [9/10] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laikasilvi/status/2109692209700364514
+[1]Laika       |17:08:56 | 12-10-2026| delay 10s...
+[1]Laika       |17:09:08 | 12-10-2026| [10/10] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Laika       |17:09:08 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laika       |17:09:10 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/laikasilvi/status/2109692522951165942
 --> [1]Laika menjalankan: Watch Anime
-[1]Laika       |08:02:20 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
-[1]Laika       |08:02:20 | 11-10-2026| watch [1/1] farming oshi-first-journey...
-[1]Laika       |08:02:23 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Laika       |08:02:30 | 11-10-2026| watch oshi-first-journey: 7% (6.43/87.00s)
-[1]Laika       |08:02:37 | 11-10-2026| watch oshi-first-journey: 13% (12.17/87.00s)
-[1]Laika       |08:02:46 | 11-10-2026| watch oshi-first-journey: 21% (19.04/87.00s)
-[1]Laika       |08:02:52 | 11-10-2026| watch oshi-first-journey: 29% (25.71/87.00s)
-[1]Laika       |08:02:59 | 11-10-2026| watch oshi-first-journey: 36% (31.71/87.00s)
-[1]Laika       |08:03:06 | 11-10-2026| watch oshi-first-journey: 43% (37.88/87.00s)
-[1]Laika       |08:03:16 | 11-10-2026| watch oshi-first-journey: 50% (43.57/87.00s)
-[1]Laika       |08:03:25 | 11-10-2026| watch oshi-first-journey: 60% (52.78/87.00s)
-[1]Laika       |08:03:32 | 11-10-2026| watch oshi-first-journey: 69% (60.12/87.00s)
-[1]Laika       |08:03:38 | 11-10-2026| watch oshi-first-journey: 76% (66.53/87.00s)
-[1]Laika       |08:03:45 | 11-10-2026| watch oshi-first-journey: 83% (72.34/87.00s)
-[1]Laika       |08:03:53 | 11-10-2026| watch oshi-first-journey: 90% (78.51/87.00s)
-[1]Laika       |08:03:53 | 11-10-2026| watch oshi-first-journey: COMPLETED (78.51/87.00s)
+[1]Laika       |17:09:11 | 12-10-2026| watch: semua video sudah completed
 --> [1]Laika menjalankan: Read Article
-[1]Laika       |08:03:55 | 11-10-2026| news: 9/24 artikel selesai dibaca
-[1]Laika       |08:03:56 | 11-10-2026| mint eligibility: {"userId":"1780413539141984256","youtube":{"url":"https://www.youtube.com/@laikasilvina","status":"submitted","revision":"82b5055b-6fc1-4cfa-a42d-f642560fe4d9","submittedAt":1791677238,"reviewedAt":17
-[1]Laika       |08:04:03 | 11-10-2026| news [1/15] oshi-labs-monthly-2026-09: OK completed=10
-[1]Laika       |08:04:14 | 11-10-2026| news [2/15] oshi-news-launch: OK completed=11
-[1]Laika       |08:04:23 | 11-10-2026| news [3/15] yuki-character-design: OK completed=12
-[1]Laika       |08:04:32 | 11-10-2026| news [4/15] smart-pocket-mobile-apps: OK completed=13
-[1]Laika       |08:04:41 | 11-10-2026| news [5/15] smart-pocket-read-a-card: OK completed=14
-[1]Laika       |08:04:50 | 11-10-2026| news [6/15] start-your-fan-creation: OK completed=15
-[1]Laika       |08:05:00 | 11-10-2026| news [7/15] complete-your-first-task: OK completed=16
-[1]Laika       |08:05:09 | 11-10-2026| news [8/15] understand-the-rankings: OK completed=17
-[1]Laika       |08:05:18 | 11-10-2026| news [9/15] unlock-and-save-icons: OK completed=18
-[1]Laika       |08:05:28 | 11-10-2026| news [10/15] start-here: OK completed=19
-[1]Laika       |08:05:40 | 11-10-2026| news [11/15] what-is-free-mint: OK completed=20
-[1]Laika       |08:05:54 | 11-10-2026| news [12/15] what-is-nft: OK completed=21
-[1]Laika       |08:06:02 | 11-10-2026| news [13/15] prepare-your-wallet: OK completed=22
-[1]Laika       |08:06:18 | 11-10-2026| news [14/15] find-your-anime: OK completed=23
-[1]Laika       |08:06:20 | 11-10-2026| news smart-pocket-first-steps: view GAGAL http=503
+[1]Laika       |17:09:12 | 12-10-2026| news: 23/24 artikel selesai dibaca
+[1]Laika       |17:09:13 | 12-10-2026| mint eligibility: {"userId":"1780413539141984256","youtube":{"url":"https://www.youtube.com/@laikasilvina","status":"submitted","revision":"82b5055b-6fc1-4cfa-a42d-f642560fe4d9","submittedAt":1791677238,"reviewedAt":17
+[1]Laika       |17:09:19 | 12-10-2026| news [1/1] smart-pocket-first-steps: OK completed=24
 --> [1]Laika menjalankan: Quiz Anime
-[1]Laika       |08:06:20 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Laika       |17:09:24 | 12-10-2026| quiz ep1: BENAR (0) +10 poin
+[1]Laika       |17:09:29 | 12-10-2026| quiz ep2: BENAR (1) +10 poin
+[1]Laika       |17:09:34 | 12-10-2026| quiz ep3: BENAR (2) +10 poin
+[1]Laika       |17:09:39 | 12-10-2026| quiz ep4: BENAR (3) +10 poin
+[1]Laika       |17:09:44 | 12-10-2026| quiz ep5: BENAR (0) +10 poin
+[1]Laika       |17:09:49 | 12-10-2026| quiz ep6: BENAR (1) +10 poin
 --> [1]Laika menjalankan: Music Missions (realtime, bisa lama!)
-[1]Laika       |08:06:20 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Laika       |08:06:20 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Laika       |17:09:55 | 12-10-2026| music memutar "この手は覚えてる" (94s)...
+[1]Laika       |17:10:07 | 12-10-2026| music "この手は覚えてる": 9% (9.0027/94s)
+[1]Laika       |17:10:18 | 12-10-2026| music "この手は覚えてる": 20% (19.1196/94s)
+[1]Laika       |17:10:30 | 12-10-2026| music "この手は覚えてる": 31% (29.165399999999998/94s)
+[1]Laika       |17:10:41 | 12-10-2026| music "この手は覚えてる": 42% (40.2327/94s)
+[1]Laika       |17:10:52 | 12-10-2026| music "この手は覚えてる": 53% (50.2965/94s)
+[1]Laika       |17:11:03 | 12-10-2026| music "この手は覚えてる": 64% (60.3819/94s)
+[1]Laika       |17:11:15 | 12-10-2026| music "この手は覚えてる": 74% (70.4151/94s)
+[1]Laika       |17:11:26 | 12-10-2026| music "この手は覚えてる": 85% (80.6499/94s)
+[1]Laika       |17:11:27 | 12-10-2026| music "この手は覚えてる": selesai 80.6499s
+[1]Laika       |17:11:29 | 12-10-2026| music memutar "キャンバス" (125s)...
+[1]Laika       |17:11:41 | 12-10-2026| music "キャンバス": 7% (9.0045/125s)
+[1]Laika       |17:11:52 | 12-10-2026| music "キャンバス": 15% (19.512/125s)
+[1]Laika       |17:12:03 | 12-10-2026| music "キャンバス": 23% (29.5542/125s)
+[1]Laika       |17:12:15 | 12-10-2026| music "キャンバス": 31% (39.641400000000004/125s)
+[1]Laika       |17:12:26 | 12-10-2026| music "キャンバス": 40% (50.025600000000004/125s)
+[1]Laika       |17:12:38 | 12-10-2026| music "キャンバス": 48% (60.041700000000006/125s)
+[1]Laika       |17:12:49 | 12-10-2026| music "キャンバス": 56% (70.4124/125s)
+[1]Laika       |17:13:00 | 12-10-2026| music "キャンバス": 64% (80.7741/125s)
+[1]Laika       |17:13:12 | 12-10-2026| music "キャンバス": 72% (90.8802/125s)
+[1]Laika       |17:13:23 | 12-10-2026| music "キャンバス": 80% (100.9458/125s)
+[1]Laika       |17:13:24 | 12-10-2026| music "キャンバス": selesai 100.9458s
+[1]Laika       |17:13:26 | 12-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Laika       |17:13:37 | 12-10-2026| music "ゆっくり帰ろう": 5% (9.0027/153s)
+[1]Laika       |17:13:49 | 12-10-2026| music "ゆっくり帰ろう": 12% (19.034100000000002/153s)
+[1]Laika       |17:14:00 | 12-10-2026| music "ゆっくり帰ろう": 19% (29.1672/153s)
+[1]Laika       |17:14:12 | 12-10-2026| music "ゆっくり帰ろう": 25% (39.764700000000005/153s)
+[1]Laika       |17:14:23 | 12-10-2026| music "ゆっくり帰ろう": 32% (49.771800000000006/153s)
+[1]Laika       |17:14:34 | 12-10-2026| music "ゆっくり帰ろう": 39% (59.787000000000006/153s)
+[1]Laika       |17:14:46 | 12-10-2026| music "ゆっくり帰ろう": 45% (69.8922/153s)
+[1]Laika       |17:14:57 | 12-10-2026| music "ゆっくり帰ろう": 52% (80.3961/153s)
+[1]Laika       |17:15:08 | 12-10-2026| music "ゆっくり帰ろう": 59% (90.54090000000001/153s)
+[1]Laika       |17:15:19 | 12-10-2026| music "ゆっくり帰ろう": 65% (100.5417/153s)
+[1]Laika       |17:15:34 | 12-10-2026| music "ゆっくり帰ろう": 72% (110.59830000000001/153s)
+[1]Laika       |17:15:45 | 12-10-2026| music "ゆっくり帰ろう": 80% (123.74190000000002/153s)
+[1]Laika       |17:15:46 | 12-10-2026| music "ゆっくり帰ろう": 80% belum counted, lanjut ke 100%...
+[1]Laika       |17:15:57 | 12-10-2026| music "ゆっくり帰ろう": 87% (134.38440000000003/153s)
+[1]Laika       |17:16:08 | 12-10-2026| music "ゆっくり帰ろう": 94% (144.52560000000003/153s)
+[1]Laika       |17:16:20 | 12-10-2026| music "ゆっくり帰ろう": 100% (153/153s)
+[1]Laika       |17:16:20 | 12-10-2026| music "ゆっくり帰ろう": selesai 153s
+[1]Laika       |17:16:22 | 12-10-2026| music memutar "うたかた" (185s)...
+[1]Laika       |17:16:33 | 12-10-2026| music "うたかた": 4% (9/185s)
+[1]Laika       |17:16:45 | 12-10-2026| music "うたかた": 10% (19.0395/185s)
+[1]Laika       |17:16:56 | 12-10-2026| music "うたかた": 15% (29.4849/185s)
+[1]Laika       |17:17:08 | 12-10-2026| music "うたかた": 21% (39.5982/185s)
+[1]Laika       |17:17:19 | 12-10-2026| music "うたかた": 26% (49.769999999999996/185s)
+[1]Laika       |17:17:30 | 12-10-2026| music "うたかた": 32% (60.0111/185s)
+[1]Laika       |17:17:43 | 12-10-2026| music "うたかた": 38% (70.3404/185s)
+[1]Laika       |17:17:54 | 12-10-2026| music "うたかた": 43% (81.3321/185s)
+[1]Laika       |17:18:05 | 12-10-2026| music "うたかた": 49% (91.494/185s)
+[1]Laika       |17:18:17 | 12-10-2026| music "うたかた": 55% (101.772/185s)
+[1]Laika       |17:18:28 | 12-10-2026| music "うたかた": 60% (111.8619/185s)
+[1]Laika       |17:18:39 | 12-10-2026| music "うたかた": 66% (122.1165/185s)
+[1]Laika       |17:18:50 | 12-10-2026| music "うたかた": 71% (132.282/185s)
+[1]Laika       |17:19:03 | 12-10-2026| music "うたかた": 76% (142.38000000000002/185s)
+[1]Laika       |17:19:14 | 12-10-2026| music "うたかた": 83% (153.6408/185s)
+[1]Laika       |17:19:15 | 12-10-2026| music "うたかた": selesai 153.6408s
+[1]Laika       |17:19:18 | 12-10-2026| music memutar "ぬくもり" (188s)...
+[1]Laika       |17:19:29 | 12-10-2026| music "ぬくもり": 4% (9.0036/188s)
+[1]Laika       |17:19:40 | 12-10-2026| music "ぬくもり": 10% (19.1727/188s)
+[1]Laika       |17:19:51 | 12-10-2026| music "ぬくもり": 15% (29.217599999999997/188s)
+[1]Laika       |17:20:03 | 12-10-2026| music "ぬくもり": 20% (39.4362/188s)
+[1]Laika       |17:20:14 | 12-10-2026| music "ぬくもり": 26% (49.5972/188s)
+[1]Laika       |17:20:26 | 12-10-2026| music "ぬくもり": 31% (60.1182/188s)
+[1]Laika       |17:20:37 | 12-10-2026| music "ぬくもり": 37% (70.2747/188s)
+[1]Laika       |17:20:48 | 12-10-2026| music "ぬくもり": 42% (80.5086/188s)
+[1]Laika       |17:21:00 | 12-10-2026| music "ぬくもり": 48% (90.6363/188s)
+[1]Laika       |17:21:11 | 12-10-2026| music "ぬくもり": 53% (100.9809/188s)
+[1]Laika       |17:21:22 | 12-10-2026| music "ぬくもり": 59% (111.1473/188s)
+[1]Laika       |17:21:34 | 12-10-2026| music "ぬくもり": 64% (121.2813/188s)
+[1]Laika       |17:21:45 | 12-10-2026| music "ぬくもり": 69% (131.4549/188s)
+[1]Laika       |17:21:56 | 12-10-2026| music "ぬくもり": 75% (141.6879/188s)
+[1]Laika       |17:22:07 | 12-10-2026| music "ぬくもり": 80% (151.79670000000002/188s)
+[1]Laika       |17:22:08 | 12-10-2026| music "ぬくもり": selesai 151.79670000000002s
+[1]Laika       |17:22:11 | 12-10-2026| music memutar "桃色の頃" (213s)...
+[1]Laika       |17:22:23 | 12-10-2026| music "桃色の頃": 4% (9.0063/213s)
+[1]Laika       |17:22:34 | 12-10-2026| music "桃色の頃": 9% (19.2447/213s)
+[1]Laika       |17:22:46 | 12-10-2026| music "桃色の頃": 13% (29.652300000000004/213s)
+[1]Laika       |17:22:57 | 12-10-2026| music "桃色の頃": 18% (40.059900000000006/213s)
+[1]Laika       |17:23:08 | 12-10-2026| music "桃色の頃": 23% (50.09490000000001/213s)
+[1]Laika       |17:23:20 | 12-10-2026| music "桃色の頃": 28% (60.23160000000001/213s)
+[1]Laika       |17:23:31 | 12-10-2026| music "桃色の頃": 33% (70.52850000000001/213s)
+[1]Laika       |17:23:43 | 12-10-2026| music "桃色の頃": 37% (80.76060000000001/213s)
+[1]Laika       |17:23:54 | 12-10-2026| music "桃色の頃": 42% (90.96660000000001/213s)
+[1]Laika       |17:24:06 | 12-10-2026| music "桃色の頃": 47% (101.67480000000002/213s)
+[1]Laika       |17:24:18 | 12-10-2026| music "桃色の頃": 52% (112.07250000000002/213s)
+[1]Laika       |17:24:29 | 12-10-2026| music "桃色の頃": 57% (122.96970000000002/213s)
+[1]Laika       |17:24:41 | 12-10-2026| music "桃色の頃": 62% (133.02630000000002/213s)
+[1]Laika       |17:24:52 | 12-10-2026| music "桃色の頃": 67% (143.20260000000002/213s)
+[1]Laika       |17:25:03 | 12-10-2026| music "桃色の頃": 71% (153.34740000000002/213s)
+[1]Laika       |17:25:15 | 12-10-2026| music "桃色の頃": 76% (163.55880000000002/213s)
+[1]Laika       |17:25:26 | 12-10-2026| music "桃色の頃": 81% (174.2562/213s)
+[1]Laika       |17:25:27 | 12-10-2026| music "桃色の頃": selesai 174.2562s
+[1]Laika       |17:25:30 | 12-10-2026| music memutar "記憶の名前" (224s)...
+[1]Laika       |17:25:42 | 12-10-2026| music "記憶の名前": 4% (9.0054/224s)
+[1]Laika       |17:25:53 | 12-10-2026| music "記憶の名前": 8% (20.1114/224s)
+[1]Laika       |17:26:05 | 12-10-2026| music "記憶の名前": 13% (30.168/224s)
+[1]Laika       |17:26:16 | 12-10-2026| music "記憶の名前": 18% (40.5423/224s)
+[1]Laika       |17:26:27 | 12-10-2026| music "記憶の名前": 22% (50.7132/224s)
+[1]Laika       |17:26:39 | 12-10-2026| music "記憶の名前": 27% (60.8643/224s)
+[1]Laika       |17:26:50 | 12-10-2026| music "記憶の名前": 31% (70.9254/224s)
+[1]Laika       |17:27:01 | 12-10-2026| music "記憶の名前": 36% (81.1485/224s)
+[1]Laika       |17:27:13 | 12-10-2026| music "記憶の名前": 40% (91.476/224s)
+[1]Laika       |17:27:25 | 12-10-2026| music "記憶の名前": 45% (101.8449/224s)
+[1]Laika       |17:27:36 | 12-10-2026| music "記憶の名前": 50% (112.509/224s)
+[1]Laika       |17:27:47 | 12-10-2026| music "記憶の名前": 54% (122.6376/224s)
+[1]Laika       |17:27:58 | 12-10-2026| music "記憶の名前": 59% (132.6501/224s)
+[1]Laika       |17:28:10 | 12-10-2026| music "記憶の名前": 63% (142.69140000000002/224s)
+[1]Laika       |17:28:21 | 12-10-2026| music "記憶の名前": 68% (153.0027/224s)
+[1]Laika       |17:28:32 | 12-10-2026| music "記憶の名前": 72% (163.1241/224s)
+[1]Laika       |17:28:44 | 12-10-2026| music "記憶の名前": 77% (173.1474/224s)
+[1]Laika       |17:28:55 | 12-10-2026| music "記憶の名前": 81% (183.3615/224s)
+[1]Laika       |17:28:56 | 12-10-2026| music "記憶の名前": selesai 183.3615s
+[1]Laika       |17:28:58 | 12-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Laika       |17:29:10 | 12-10-2026| music "Smart Pocket": 3% (9.0054/232s)
+[1]Laika       |17:29:21 | 12-10-2026| music "Smart Pocket": 8% (19.5273/232s)
+[1]Laika       |17:29:32 | 12-10-2026| music "Smart Pocket": 12% (29.498400000000004/232s)
+[1]Laika       |17:29:44 | 12-10-2026| music "Smart Pocket": 17% (39.70440000000001/232s)
+[1]Laika       |17:29:55 | 12-10-2026| music "Smart Pocket": 21% (50.00760000000001/232s)
+[1]Laika       |17:30:06 | 12-10-2026| music "Smart Pocket": 25% (60.284700000000015/232s)
+[1]Laika       |17:30:18 | 12-10-2026| music "Smart Pocket": 30% (70.51050000000001/232s)
+[1]Laika       |17:30:29 | 12-10-2026| music "Smart Pocket": 34% (80.56890000000001/232s)
+[1]Laika       |17:30:40 | 12-10-2026| music "Smart Pocket": 39% (90.64980000000001/232s)
+[1]Laika       |17:30:51 | 12-10-2026| music "Smart Pocket": 43% (100.95120000000001/232s)
+[1]Laika       |17:31:03 | 12-10-2026| music "Smart Pocket": 47% (110.99970000000002/232s)
+[1]Laika       |17:31:14 | 12-10-2026| music "Smart Pocket": 52% (121.06170000000002/232s)
+[1]Laika       |17:31:25 | 12-10-2026| music "Smart Pocket": 56% (131.17770000000002/232s)
+[1]Laika       |17:31:37 | 12-10-2026| music "Smart Pocket": 61% (141.65370000000001/232s)
+[1]Laika       |17:31:48 | 12-10-2026| music "Smart Pocket": 65% (151.74990000000003/232s)
+[1]Laika       |17:31:59 | 12-10-2026| music "Smart Pocket": 69% (162.02070000000003/232s)
+[1]Laika       |17:32:11 | 12-10-2026| music "Smart Pocket": 74% (172.19160000000002/232s)
+[1]Laika       |17:32:22 | 12-10-2026| music "Smart Pocket": 78% (182.33100000000002/232s)
+[1]Laika       |17:32:34 | 12-10-2026| music "Smart Pocket": 82% (192.4011/232s)
+[1]Laika       |17:32:35 | 12-10-2026| music "Smart Pocket": selesai 192.4011s
+[1]Laika       |17:32:38 | 12-10-2026| music memutar "神様みたいに" (254s)...
+[1]Laika       |17:32:49 | 12-10-2026| music "神様みたいに": 3% (9.0045/254s)
+[1]Laika       |17:33:01 | 12-10-2026| music "神様みたいに": 7% (19.3032/254s)
+[1]Laika       |17:33:12 | 12-10-2026| music "神様みたいに": 11% (29.7828/254s)
+[1]Laika       |17:33:23 | 12-10-2026| music "神様みたいに": 15% (39.8115/254s)
+[1]Laika       |17:33:34 | 12-10-2026| music "神様みたいに": 19% (49.9437/254s)
+[1]Laika       |17:33:46 | 12-10-2026| music "神様みたいに": 23% (60.1569/254s)
+[1]Laika       |17:33:57 | 12-10-2026| music "神様みたいに": 27% (70.2747/254s)
+[1]Laika       |17:34:08 | 12-10-2026| music "神様みたいに": 31% (80.46629999999999/254s)
+[1]Laika       |17:34:20 | 12-10-2026| music "神様みたいに": 35% (90.80279999999999/254s)
+[1]Laika       |17:34:31 | 12-10-2026| music "神様みたいに": 39% (101.09969999999998/254s)
+[1]Laika       |17:34:43 | 12-10-2026| music "神様みたいに": 43% (111.26969999999999/254s)
+[1]Laika       |17:34:54 | 12-10-2026| music "神様みたいに": 47% (121.52789999999999/254s)
+[1]Laika       |17:35:05 | 12-10-2026| music "神様みたいに": 51% (131.54309999999998/254s)
+[1]Laika       |17:35:16 | 12-10-2026| music "神様みたいに": 55% (141.85439999999997/254s)
+[1]Laika       |17:35:29 | 12-10-2026| music "神様みたいに": 59% (151.87319999999997/254s)
+[1]Laika       |17:35:41 | 12-10-2026| music "神様みたいに": 64% (162.99899999999997/254s)
+[1]Laika       |17:35:53 | 12-10-2026| music "神様みたいに": 68% (174.40019999999996/254s)
+[1]Laika       |17:36:04 | 12-10-2026| music "神様みたいに": 72% (184.49549999999996/254s)
+[1]Laika       |17:36:15 | 12-10-2026| music "神様みたいに": 76% (194.64209999999997/254s)
+[1]Laika       |17:36:27 | 12-10-2026| music "神様みたいに": 80% (204.98309999999998/254s)
+[1]Laika       |17:36:28 | 12-10-2026| music "神様みたいに": selesai 204.98309999999998s
+[1]Laika       |17:36:30 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Laika       |17:36:42 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
+[1]Laika       |17:36:53 | 12-10-2026| music "せーので、飛ぼう！": 7% (19.189799999999998/269s)
+[1]Laika       |17:37:05 | 12-10-2026| music "せーので、飛ぼう！": 10% (29.310299999999998/269s)
+[1]Laika       |17:37:16 | 12-10-2026| music "せーので、飛ぼう！": 14% (39.7647/269s)
+[1]Laika       |17:37:27 | 12-10-2026| music "せーので、飛ぼう！": 18% (49.9698/269s)
+[1]Laika       |17:37:39 | 12-10-2026| music "せーので、飛ぼう！": 22% (59.9895/269s)
+[1]Laika       |17:37:50 | 12-10-2026| music "せーので、飛ぼう！": 26% (70.3629/269s)
+[1]Laika       |17:38:01 | 12-10-2026| music "せーので、飛ぼう！": 29% (80.4618/269s)
+[1]Laika       |17:38:14 | 12-10-2026| music "せーので、飛ぼう！": 33% (90.5724/269s)
+[1]Laika       |17:38:25 | 12-10-2026| music "せーので、飛ぼう！": 37% (101.8926/269s)
+[1]Laika       |17:38:36 | 12-10-2026| music "せーので、飛ぼう！": 41% (112.0257/269s)
+[1]Laika       |17:38:47 | 12-10-2026| music "せーので、飛ぼう！": 45% (122.1615/269s)
+[1]Laika       |17:38:59 | 12-10-2026| music "せーので、飛ぼう！": 49% (132.2136/269s)
+[1]Laika       |17:39:11 | 12-10-2026| music "せーので、飛ぼう！": 52% (142.37730000000002/269s)
+[1]Laika       |17:39:22 | 12-10-2026| music "せーので、飛ぼう！": 57% (153.52470000000002/269s)
+[1]Laika       |17:39:34 | 12-10-2026| music "せーので、飛ぼう！": 60% (163.69740000000002/269s)
+[1]Laika       |17:39:45 | 12-10-2026| music "せーので、飛ぼう！": 64% (173.9394/269s)
+[1]Laika       |17:39:56 | 12-10-2026| music "せーので、飛ぼう！": 68% (183.996/269s)
+[1]Laika       |17:40:07 | 12-10-2026| music "せーので、飛ぼう！": 72% (194.1057/269s)
+[1]Laika       |17:40:20 | 12-10-2026| music "せーので、飛ぼう！": 75% (204.2946/269s)
+[1]Laika       |17:40:31 | 12-10-2026| music "せーので、飛ぼう！": 80% (215.2197/269s)
+[1]Laika       |17:40:42 | 12-10-2026| music "せーので、飛ぼう！": 83% (225.51209999999998/269s)
+[1]Laika       |17:40:43 | 12-10-2026| music "せーので、飛ぼう！": selesai 225.51209999999998s
+[1]Laika       |17:40:46 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Laika       |17:40:57 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Laika       |17:41:08 | 12-10-2026| music "ON CHAIN NEXUS": 6% (19.1556/276s)
+[1]Laika       |17:41:20 | 12-10-2026| music "ON CHAIN NEXUS": 10% (29.4435/276s)
+[1]Laika       |17:41:32 | 12-10-2026| music "ON CHAIN NEXUS": 14% (40.0941/276s)
+[1]Laika       |17:41:43 | 12-10-2026| music "ON CHAIN NEXUS": 18% (50.257799999999996/276s)
+[1]Laika       |17:41:54 | 12-10-2026| music "ON CHAIN NEXUS": 21% (60.509699999999995/276s)
+[1]Laika       |17:42:06 | 12-10-2026| music "ON CHAIN NEXUS": 25% (70.8921/276s)
+[1]Laika       |17:42:17 | 12-10-2026| music "ON CHAIN NEXUS": 29% (80.9487/276s)
+[1]Laika       |17:42:28 | 12-10-2026| music "ON CHAIN NEXUS": 33% (91.11240000000001/276s)
+[1]Laika       |17:42:40 | 12-10-2026| music "ON CHAIN NEXUS": 36% (101.11590000000001/276s)
+[1]Laika       |17:42:51 | 12-10-2026| music "ON CHAIN NEXUS": 40% (111.39840000000001/276s)
+[1]Laika       |17:43:02 | 12-10-2026| music "ON CHAIN NEXUS": 44% (121.6089/276s)
+[1]Laika       |17:43:15 | 12-10-2026| music "ON CHAIN NEXUS": 47% (131.8878/276s)
+[1]Laika       |17:43:26 | 12-10-2026| music "ON CHAIN NEXUS": 51% (143.1189/276s)
+[1]Laika       |17:43:37 | 12-10-2026| music "ON CHAIN NEXUS": 55% (153.279/276s)
+[1]Laika       |17:43:48 | 12-10-2026| music "ON CHAIN NEXUS": 59% (163.2825/276s)
+[1]Laika       |17:44:00 | 12-10-2026| music "ON CHAIN NEXUS": 62% (173.268/276s)
+[1]Laika       |17:44:11 | 12-10-2026| music "ON CHAIN NEXUS": 66% (183.4614/276s)
+[1]Laika       |17:44:22 | 12-10-2026| music "ON CHAIN NEXUS": 70% (193.4397/276s)
+[1]Laika       |17:44:34 | 12-10-2026| music "ON CHAIN NEXUS": 73% (203.9004/276s)
+[1]Laika       |17:44:45 | 12-10-2026| music "ON CHAIN NEXUS": 77% (214.0587/276s)
+[1]Laika       |17:44:56 | 12-10-2026| music "ON CHAIN NEXUS": 81% (224.07569999999998/276s)
+[1]Laika       |17:44:56 | 12-10-2026| music "ON CHAIN NEXUS": selesai 224.07569999999998s
+[1]Laika       |17:44:57 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Laika       |17:44:59 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Laika       |17:45:03 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Laika       |17:45:07 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
 --> [1]Laika menjalankan: Claim Missions
-[1]Laika       |08:06:20 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Laika       |17:45:11 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Laika       |17:45:11 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Laika       |17:45:11 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laika menjalankan: Check Eligibility
 
 --- eligibility [1]Laika ---
-  @laikasilvi | score=870 rank=6723
-  tasks    [###################-] 73/76
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @laikasilvi | score=900 rank=6847
+  tasks    [##################--] 70/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Laika menjalankan: Read Manga
-[1]Laika       |08:06:21 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Laika       |17:45:15 | 12-10-2026| manga: 1/13 chapter belum completed
+[1]Laika       |17:45:15 | 12-10-2026| manga [1/1] membaca ch.2 (18 hal)...
+[1]Laika       |17:45:21 | 12-10-2026| manga ch2 (990005): page 1/18 (5%) 129s
+[1]Laika       |17:45:25 | 12-10-2026| manga ch2 (990005): page 2/18 (11%) 134s
+[1]Laika       |17:45:30 | 12-10-2026| manga ch2 (990005): page 3/18 (16%) 138s
+[1]Laika       |17:45:34 | 12-10-2026| manga ch2 (990005): page 4/18 (22%) 143s
+[1]Laika       |17:45:39 | 12-10-2026| manga ch2 (990005): page 5/18 (27%) 147s
+[1]Laika       |17:45:43 | 12-10-2026| manga ch2 (990005): page 6/18 (33%) 152s
+[1]Laika       |17:45:48 | 12-10-2026| manga ch2 (990005): page 7/18 (38%) 156s
+[1]Laika       |17:45:53 | 12-10-2026| manga ch2 (990005): page 8/18 (44%) 161s
+[1]Laika       |17:45:57 | 12-10-2026| manga ch2 (990005): page 9/18 (50%) 166s
+[1]Laika       |17:46:02 | 12-10-2026| manga ch2 (990005): page 10/18 (55%) 170s
+[1]Laika       |17:46:06 | 12-10-2026| manga ch2 (990005): page 11/18 (61%) 175s
+[1]Laika       |17:46:11 | 12-10-2026| manga ch2 (990005): page 12/18 (66%) 179s
+[1]Laika       |17:46:16 | 12-10-2026| manga ch2 (990005): page 13/18 (72%) 184s
+[1]Laika       |17:46:20 | 12-10-2026| manga ch2 (990005): page 14/18 (77%) 188s
+[1]Laika       |17:46:25 | 12-10-2026| manga ch2 (990005): page 15/18 (83%) 193s
+[1]Laika       |17:46:30 | 12-10-2026| manga ch2 (990005): page 16/18 (88%) 198s
+[1]Laika       |17:46:35 | 12-10-2026| manga ch2 (990005): page 17/18 (94%) 203s
+[1]Laika       |17:46:39 | 12-10-2026| manga ch2 (990005): page 18/18 (99%) 208s
+[1]Laika       |17:46:39 | 12-10-2026| manga ch2 (990005): COMPLETED
 --> [1]Laika menjalankan: Get Gift
-[1]Laika       |08:06:21 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Laika       |17:46:43 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Laika menjalankan: Setup Profile
-[1]Laika       |08:06:21 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Laika       |17:46:43 | 12-10-2026| profile: bio="https://x.com/laikasilvi" fav=kagura rewardAt=1791690015
+[1]Laika       |17:46:43 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Laika menjalankan: Bind Wallet
-[1]Laika       |08:06:21 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Laika       |17:46:44 | 12-10-2026| wallet: sudah terikat 6E5wkHxgvo... (solana)
 
 == RINGKASAN ==
-- Laika: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 14 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Laika: daily=claimed | tasks OK 10/11 | misi klaim 0 (+0pt) | kuis benar 6 (+60pt) | watch 0/0 completed | musik 11 trek ~1844.6228999999998s | artikel 1 dibaca | manga 1/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
