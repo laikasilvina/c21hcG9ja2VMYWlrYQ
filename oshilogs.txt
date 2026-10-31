@@ -12,66 +12,62 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Laika =====
-[1]Laika       |07:54:19 | 30-10-2026| login OK @laikasilvi | score=2410 rank=3290
-[1]Laika       |07:54:19 | 30-10-2026| serverTime=2026-10-30T07:54:19.000Z local=2026-10-30T07:54:19.376Z
+[1]Laika       |07:45:35 | 31-10-2026| login OK @laikasilvi | score=2490 rank=3190
+[1]Laika       |07:45:35 | 31-10-2026| serverTime=2026-10-31T07:45:35.000Z local=2026-10-31T07:45:35.410Z
 --> [1]Laika menjalankan: Claim Daily
-[1]Laika       |07:54:20 | 30-10-2026| daily: OK +10 poin score=2420
---> [1]Laika menjalankan: Auto All Tasks (7 pending)
-[1]Laika       |07:54:22 | 30-10-2026| [1/7] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laikasilvi/status/2116075683410851798
-[1]Laika       |07:54:22 | 30-10-2026| delay 10s...
-[1]Laika       |07:54:35 | 30-10-2026| [2/7] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laikasilvi/status/2116075909458054508
-[1]Laika       |07:54:35 | 30-10-2026| delay 10s...
-[1]Laika       |07:54:48 | 30-10-2026| [3/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laikasilvi/status/2116075974923498720
-[1]Laika       |07:54:48 | 30-10-2026| delay 10s...
-[1]Laika       |07:55:00 | 30-10-2026| [4/7] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laikasilvi/status/2116075803537580937
-[1]Laika       |07:55:00 | 30-10-2026| delay 10s...
-[1]Laika       |07:55:12 | 30-10-2026| [5/7] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laikasilvi/status/2116076055011520158
-[1]Laika       |07:55:12 | 30-10-2026| delay 10s...
-[1]Laika       |07:55:24 | 30-10-2026| [6/7] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laikasilvi/status/2116075912330814482
-[1]Laika       |07:55:24 | 30-10-2026| delay 10s...
-[1]Laika       |07:55:36 | 30-10-2026| [7/7] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
-[1]Laika       |07:55:36 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Laika       |07:55:38 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/laikasilvi/status/2116076270773054376
+[1]Laika       |07:45:36 | 31-10-2026| daily: OK +10 poin score=2500
+--> [1]Laika menjalankan: Auto All Tasks (5 pending)
+[1]Laika       |07:45:39 | 31-10-2026| [1/5] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/laikasilvi/status/2116436133349135061
+[1]Laika       |07:45:39 | 31-10-2026| delay 10s...
+[1]Laika       |07:45:51 | 31-10-2026| [2/5] 2a71892a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/laikasilvi/status/2116436097168933641
+[1]Laika       |07:45:51 | 31-10-2026| delay 10s...
+[1]Laika       |07:46:04 | 31-10-2026| [3/5] caaa7a93 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/laikasilvi/status/2116435939469639542
+[1]Laika       |07:46:04 | 31-10-2026| delay 10s...
+[1]Laika       |07:46:16 | 31-10-2026| [4/5] d4f05f1e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/laikasilvi/status/2116436210599585515
+[1]Laika       |07:46:16 | 31-10-2026| delay 10s...
+[1]Laika       |07:46:28 | 31-10-2026| [5/5] bbf7f979 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/laikasilvi/status/2116436228171275318
+[1]Laika       |07:46:28 | 31-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laika       |07:46:30 | 31-10-2026| [1/1] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116336474631348 | proof=https://x.com/laikasilvi/status/2116436158447151914
 --> [1]Laika menjalankan: Watch Anime
-[1]Laika       |07:55:39 | 30-10-2026| watch: semua video sudah completed
+[1]Laika       |07:46:31 | 31-10-2026| watch: semua video sudah completed
 --> [1]Laika menjalankan: Read Article
-[1]Laika       |07:55:41 | 30-10-2026| news: 30/30 artikel selesai dibaca
-[1]Laika       |07:55:41 | 30-10-2026| mint eligibility: {"userId":"1780413539141984256","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laikasilvina","status":"submitted","revision":"82b5055b-6fc1-4cfa-a42d-f642560fe
-[1]Laika       |07:55:41 | 30-10-2026| news: semua artikel sudah dibaca
+[1]Laika       |07:46:32 | 31-10-2026| news: 30/32 artikel selesai dibaca
+[1]Laika       |07:46:32 | 31-10-2026| mint eligibility: {"userId":"1780413539141984256","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laikasilvina","status":"submitted","revision":"82b5055b-6fc1-4cfa-a42d-f642560fe
+[1]Laika       |07:46:40 | 31-10-2026| news [1/2] smart-pocket-monthly-2026-10: OK completed=31
+[1]Laika       |07:46:49 | 31-10-2026| news [2/2] oshi-labs-monthly-2026-10: OK completed=32
 --> [1]Laika menjalankan: Quiz Anime
 --> [1]Laika menjalankan: Music Missions (realtime, bisa lama!)
-[1]Laika       |07:55:45 | 30-10-2026| music: kedua misi sudah tercapai, stop
-[1]Laika       |07:55:45 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Laika       |07:55:45 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Laika       |07:55:45 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Laika       |07:46:54 | 31-10-2026| music: kedua misi sudah tercapai, stop
+[1]Laika       |07:46:55 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Laika       |07:46:55 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Laika       |07:46:55 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laika menjalankan: Claim Missions
-[1]Laika       |07:55:46 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Laika       |07:55:46 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Laika       |07:55:46 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Laika       |07:46:56 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Laika       |07:46:56 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Laika       |07:46:56 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laika menjalankan: Check Eligibility
 
 --- eligibility [1]Laika ---
-  @laikasilvi | score=2410 rank=3290
-  tasks    [#######-------------] 4/11
+  @laikasilvi | score=2490 rank=3190
+  tasks    [############--------] 7/12
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [##################--] 11/12
-  artikel  [####################] 30/30
+  artikel  [####################] 32/32
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Laika menjalankan: Read Manga
-[1]Laika       |07:55:52 | 30-10-2026| manga: 0/13 chapter belum completed
+[1]Laika       |07:47:00 | 31-10-2026| manga: 0/13 chapter belum completed
 --> [1]Laika menjalankan: Get Gift
-[1]Laika       |07:55:53 | 30-10-2026| gift: 1/6 belum diterima
-[1]Laika       |07:55:54 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
+[1]Laika       |07:47:01 | 31-10-2026| gift: 0/6 belum diterima
 --> [1]Laika menjalankan: Setup Profile
-[1]Laika       |07:55:57 | 30-10-2026| profile: bio="https://x.com/laikasilvi" fav=kagura rewardAt=1791690015
-[1]Laika       |07:55:57 | 30-10-2026| profile: bonus sudah diklaim, skip
+[1]Laika       |07:47:01 | 31-10-2026| profile: bio="https://x.com/laikasilvi" fav=kagura rewardAt=1791690015
+[1]Laika       |07:47:01 | 31-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Laika menjalankan: Bind Wallet
-[1]Laika       |07:55:57 | 30-10-2026| wallet: sudah terikat 6E5wkHxgvo... (solana)
+[1]Laika       |07:47:02 | 31-10-2026| wallet: sudah terikat 6E5wkHxgvo... (solana)
 
 == RINGKASAN ==
-- Laika: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
+- Laika: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 2 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
